@@ -1,0 +1,27 @@
+
+
+
+
+
+
+
+#header{
+    margin:left;
+    width: 400px;
+    font-family: helvetica;
+}
+
+ul,ol{
+ list-style:none;
+}
+
+.nav li a{
+   background-color: rgb(194, 153, 233);
+   text-decoration: none;
+}
+
+.nav li a:hover{
+    background-color: rgb(226, 221, 221);
+ }
+ 
+ 

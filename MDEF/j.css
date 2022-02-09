@@ -1,0 +1,207 @@
+body
+{
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    background-color:rgb(211, 247, 197);   
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.CONTENEDORGENERAL
+{
+ width: 1379px;
+ height: 758px;
+ background-color: transparent;
+ margin-top: 35px;
+ margin-left: 35px;
+}
+.FIORELLA
+{
+ width: 1379px;
+ height: 377px;
+ background-color: transparent;
+}
+
+.name
+{
+ width: 900px;
+ height: 377px;
+ background-color: white;
+ margin: 0px;
+ float: left;
+}
+.bolitas
+{
+ width: 479px;
+ height: 377px;
+ background-color: white;
+ margin: 0px;
+ float: left;
+}
+
+.D123
+{
+  width: 591px;
+  height: 381px;
+  background-color:transparent;
+  float: left;
+  
+ }
+.design
+{
+  width: 591px;
+  height: 127px;
+  background-color: WHITE;
+  margin: 0px;
+  float: left;
+  
+  }
+
+ .uno
+ {
+   width: 197px;
+   height: 254px;
+   background-color: white;
+   margin-left: 0px;
+   float: left;
+     
+   }
+ .dos
+  {
+    width: 197px;
+    height: 254px;
+    background-color: rgb(255, 198, 241);
+    float: left;
+        
+  }
+
+  .tres
+  {
+    width: 197px;
+    height: 254px;
+    background-color: WHITE;
+    float: left;
+   
+  }
+
+  .FABACADEMY
+  {
+    width: 394px;
+    height: 381px;
+    background-color:transparent;
+    float: left;
+    
+   }
+
+   .FAB
+  {
+    width: 394px;
+    height: 254px;
+    background-color: rgb(219, 218, 218);
+    margin-top: 0px;
+    float: left;
+   }
+   .F1
+   {
+     width: 394px;
+     height: 127px;
+     background-color: none;
+     float: left;
+    }
+
+    .RANDOM
+  {
+    width: 197px;
+    height: 381px;
+    background-color:transparent;
+    float: left;
+       }
+
+   .x2
+   {
+     width: 197px;
+     height: 127px;
+     background-color: white;
+     float: left;
+    }
+
+    .x3
+   {
+     width: 197px;
+     height: 127px;
+     background-color: white;
+     float: left;
+    }
+    .x4
+    {
+      width: 197px;
+      height: 127px;
+      background-color: white;
+      float: left;
+     }
+     .seminars
+     {
+      width: 197px;
+      height: 381px;
+      background-color: rgb(233, 231, 231);
+      float: left;
+         }
+
+        
+    p{
+         font-size: 65px;
+         font-family:Helvetica;
+         margin-top: 0px;
+         width: 200xp;
+    }
+
+    h1 {
+      font-size: 144px;
+      font-family: Helvetica;
+      color: grey
+    }
+
+    h2 {
+      font-size: 40px;
+      font-family: Helvetica;
+    }
+
+    h3 {
+      font-size: 100px;
+      font-family: Helvetica;
+    }
+
+    h4 {
+      font-size: 50px;
+      font-family: Helvetica;
+    }
+
+    h5 {
+      font-size: 110px;
+      font-family: 'Times New Roman', Times, serif;
+      margin-top: 0px;
+    }
+
+  
+.term1{
+      margin:right;
+      width: 400px;
+      font-family: helvetica;
+  }
+
+ul,ol{
+list-style:none;
+padding: 0px;
+}
+
+.nav li a{
+ background-color: rgb(187, 187, 187);
+ text-decoration: none;
+
+}
+
+.nav li a:hover{
+  background-color: rgb(226, 221, 221);
+}
