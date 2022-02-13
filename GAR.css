@@ -1,0 +1,35 @@
+
+
+
+
+
+
+
+#header{
+    margin:left;
+    width: 1500px;
+    font-family: helvetica;
+}
+
+ul,ol{
+ list-style:none;
+ font-size: 66px;
+ font-family: Helvetica;
+    
+}
+
+.nav li a{
+   background-color: rgb(223, 224, 223);
+   text-decoration: none;
+}
+
+.nav li a:hover{
+    background-color: rgb(43, 255, 0);
+ }
+ 
+
+
+ h1 {
+    
+  }
+ 
