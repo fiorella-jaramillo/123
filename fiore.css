@@ -76,10 +76,7 @@ cursor: pointer;
 
 .cuerpitocentral
 {
- margin-top: ;
- margin-bottom: ;
- margin-left: 350px;
- margin-right: 350px;
- min-width: 620px;
-}
-
+  width: 50%;
+  max-width: 850px;
+  margin:0 auto
+ }
