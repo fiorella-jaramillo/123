@@ -1,35 +1,81 @@
 
+  .cabecerafija
+  {
+      background-color: white;
+      padding: 15px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 13px;
+    }
+  
+  .cabecerafija a
+  {
+     color: black;
+     text-decoration: none;
+  }
+  
+  .logo-nav-container
+  {
+      display: flex;
+      justify-content:space-between ;
+      align-items: center;
+  }
+  
+  .navigation ul
+  {
+     margin:0;
+     padding: 0;
+     list-style: none;
+  }
+  
+  .navigation ul li
+  {
+     display: inline-block;
+  }
+  
+  .navigation ul li a
+  {
+     display: block;
+     padding: 0.5rem ;
+     transition: all 0.4Ss linear
+  }
+  
+  .navigation ul li a:hover
+  {
+     background:#5eff00;
+   }
 
+   h1 {
+    font-size: 60px;
+    font-family: Helvetica;
+  }
 
-
-
-
-
-#header{
-    margin:left;
-    width: 1500px;
-    font-family: helvetica;
-}
-
-ul,ol{
- list-style:none;
- font-size: 66px;
- font-family: Helvetica;
-    
-}
-
-.nav li a{
-   background-color: rgb(223, 224, 223);
-   text-decoration: none;
-}
-
-.nav li a:hover{
-    background-color: rgb(43, 255, 0);
- }
- 
-
-
- h1 {
+  .contenedor{
+    width: 60%;
+    height: 180px;
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     
   }
- 
+  .contenedor .card
+  {
+      width: 180px;
+      height: 180px;
+      overflow: hidden;
+      margin: 10px;
+     text-align: center;
+      transition: all 0.25s;
+}
+
+
+
+@media(min-width:520px)
+{
+.item .contenedor {
+    grid-template-columns:repeat(3,33.3%);
+}
+
+
