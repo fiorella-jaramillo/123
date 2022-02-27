@@ -55,17 +55,19 @@
     margin-top: 10%;
     margin-left: 20%;
     margin-right: 20px;
+ 
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    
+    background-color: transparent;
   }
   .contenedor .card
   {
       width: 180px;
-      height: 180px;
+      height: 190px;
       overflow: hidden;
       margin: 10px;
+     
      text-align: center;
       transition: all 0.25s;
 }
