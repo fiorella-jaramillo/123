@@ -19,6 +19,13 @@ h1 {
   text-align: justify;
 }
 
+pre {
+  font-size: 17px;
+  line-height: 10px;
+  font-family:Helvetica;
+  text-align: justify;
+}
+
 .cuerpitocentral
 {
  width: 50%;
